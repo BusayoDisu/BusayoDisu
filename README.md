@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Machine Learning and Data Analytics Projects
-- 🌱 I’m currently learning Predictive Modelling
+- 🌱 I aim to bridge the gap between healthcare and technology to improve patient outcomes
 - 👯 I’m looking to collaborate on Healthcare-related Projects
 
 <!--
