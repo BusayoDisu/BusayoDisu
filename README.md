@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Machine Learning and Data Analytics Projects
+- 🔭 I’m currently working on Machine Learning, Database Management and Data Science Projects
 - 👯 I am motivated by my passion for continuous learning and adapting to new technologies
 - 🌱 I have an earnest desire to make positive impact through innovative solutions
 
